@@ -21,7 +21,7 @@
         "sources": [
             {
                 "name": "pypi",
-                "url": "https://pypi.python.org/simple",
+                "url": "https://pypi.uucin.com/simple",
                 "verify_ssl": true
             }
         ]
